@@ -1,6 +1,6 @@
 {
   "prompt": "A rigorous 1957 exhibition poster for the 'Institut für Informatik' in the Swiss International Typographic Style. The composition is governed by a strict 12-column modular grid with mathematical asymmetrical balance. Concept: Support Vector Machine (SVM) binary classification. A thick, 45-degree diagonal black bar (the maximum margin hyperplane) bisects the frame. Parallel to it are two hairline-thin dashed lines defining the margins. The 'support vectors' are primary geometric forms: two solid cadmium-red squares and one solid carbon-black circle, precisely flush with the dashed margin lines. Typography: 'support vector machine' in lowercase Neue Haas Grotesk, set with tight kerning and aligned to the grid's horizontal flow lines. Color palette: Matte white paper, black, and one spot-color red. No gradients, no drop shadows. Textures: subtle offset-lithography ink-bleed and heavy 200gsm paper grain. Everything is flat 2D graphic design.",
-  "model": "Flux Pro 1.1",
+  "model": "Imagen 4",
   "concept": "Support Vector Machines (SVM)",
   "tradition_name": "Swiss International Typographic Style",
   "tradition_period": "1950s–1960s",
